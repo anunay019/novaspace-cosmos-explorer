@@ -1,0 +1,8 @@
+{
+  "name": "NovaSpace",
+  "description": "NovaSpace – Explore the Universe: An interactive space exploration platform featuring the Solar System, deep space phenomena, an interactive black hole visualization, historic missions, and cosmic telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
